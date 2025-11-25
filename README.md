@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zejun1229
-- 👀 I’m interested in physics actually
-- 🌱 I’m currently learning some soding and alogerithem for the in coming mathematical modeling competation
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in quantum science actually, photonic quantum computing.
+- 🌱 I’m currently learning some maachine learning and quantitive trading for exploration on  future career.
+- 💞️ I’m looking to collaborate on quantum algorithm researcher
 - 📫 How to reach me zejunf6@gamil.com
 
 <!---

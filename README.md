@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zejun1229
+- 👋 Hi, I’m @zejun1229 
 - 👀 I’m interested in quantum science actually, photonic quantum computing.
 - 🌱 I’m currently learning some maachine learning and quantitive trading for exploration on  future career.
 - 💞️ I’m looking to collaborate on quantum algorithm researcher
